@@ -3,12 +3,12 @@ import React from 'react';
 export default function Donors() {
   return (
     <div>
-      <section class="bg-white dark:bg-gray-900">
+      <section class="bg-white dark:bg-gray-900 mt-12">
         <div class="max-w-6xl px-6 py-10 mx-auto">
-          <p class="text-xl font-medium text-yellow-500 ">Testimonials</p>
+          <p class="text-xl font-medium text-yellow-500 ">Celebrating our</p>
 
-          <h1 class="mt-2 text-3xl mb-64 font-semibold text-gray-800 capitalize lg:text-4xl dark:text-white">
-            What clients saying
+          <h1 class="mt-2 text-3xl mb-52  font-semibold text-gray-800 capitalize lg:text-4xl dark:text-white">
+            Recent Donations
           </h1>
 
           <main class="relative mb-40 z-20 w-full mt-8 md:flex md:items-center xl:mt-12">
