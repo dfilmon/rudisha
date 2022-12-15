@@ -5,16 +5,16 @@ export default function Donors() {
     <div>
       <section class="bg-white dark:bg-gray-900">
         <div class="max-w-6xl px-6 py-10 mx-auto">
-          <p class="text-xl font-medium text-blue-500 ">Testimonials</p>
+          <p class="text-xl font-medium text-yellow-500 ">Testimonials</p>
 
           <h1 class="mt-2 text-3xl mb-64 font-semibold text-gray-800 capitalize lg:text-4xl dark:text-white">
             What clients saying
           </h1>
 
           <main class="relative mb-40 z-20 w-full mt-8 md:flex md:items-center xl:mt-12">
-            <div class="absolute w-full bg-blue-600 -z-10 md:h-96 rounded-2xl "></div>
+            <div class="absolute w-full bg-yellow-600 -z-10 md:h-96 rounded-2xl "></div>
 
-            <div class="w-full p-6 bg-blue-600 md:items-center rounded-2xl md:bg-transparent md:p-0 lg:px-12 md:justify-evenly z-10  ">
+            <div class="w-full p-6 bg-yellow-600 md:items-center rounded-2xl md:bg-transparent md:p-0 lg:px-12 md:justify-evenly z-10  ">
               <img
                 class=" lg:h-96 lg:absolute lg:bottom-0  lg:left-12 sm:rounded-2xl rounded-2xl sm:h-24 sm:w-24  md:mx-6  lg:rounded-2xl sm:rounded-2xl object-cover shadow-md  md:w-30 md:h-30  lg:w-80 lg:h-[36rem] lg:w-[26rem] md:rounded-2xl"
                 src="https://images.unsplash.com/photo-1488508872907-592763824245?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80"
@@ -26,7 +26,9 @@ export default function Donors() {
                   <p class="text-xl font-medium tracking-tight text-white">
                     Ema Watson
                   </p>
-                  <p class="text-blue-200 ">Marketing Manager at Stech</p>
+                  <p class="text-black font-bold ">
+                    Marketing Manager at Stech
+                  </p>
                 </div>
 
                 <p class="mt-4 text-lg leading-relaxed text-white md:text-xl">
@@ -39,7 +41,7 @@ export default function Donors() {
                 <div class="flex items-center justify-between mt-6 md:justify-start">
                   <button
                     title="left arrow"
-                    class="p-2 text-white transition-colors duration-300 border rounded-full rtl:-scale-x-100 hover:bg-blue-400"
+                    class="p-2 text-white transition-colors duration-300 border rounded-full rtl:-scale-x-100 hover:bg-yellow-400"
                   >
                     <svg
                       xmlns="http://www.w3.org/2000/svg"
@@ -59,7 +61,7 @@ export default function Donors() {
 
                   <button
                     title="right arrow"
-                    class="p-2 text-white transition-colors duration-300 border rounded-full rtl:-scale-x-100 md:mx-6 hover:bg-blue-400"
+                    class="p-2 text-white transition-colors duration-300 border rounded-full rtl:-scale-x-100 md:mx-6 hover:bg-yellow-400"
                   >
                     <svg
                       xmlns="http://www.w3.org/2000/svg"
