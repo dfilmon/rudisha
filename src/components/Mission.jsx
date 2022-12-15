@@ -4,7 +4,7 @@ export default function Mission() {
   return (
     <div>
       <section class="bg-white dark:bg-gray-900">
-        <div class="container px-6 py-10 mx-auto">
+        <div class="container px-6 py-10 mx-auto mb-64 mt-24">
           <div class="text-center">
             <h1 class="text-3xl font-semibold text-gray-800 capitalize lg:text-4xl dark:text-white">
               From the blog

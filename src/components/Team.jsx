@@ -3,7 +3,7 @@ import React from 'react';
 export default function Team() {
   return (
     <div>
-      <section class="bg-white dark:bg-gray-900">
+      <section class="bg-white dark:bg-gray-900 mt-40 mb-40">
         <div class="container px-6 py-10 mx-auto">
           <h1 class="text-3xl font-semibold text-center text-gray-800 capitalize lg:text-4xl dark:text-white">
             Our Executive Team
