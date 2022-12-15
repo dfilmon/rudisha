@@ -16,7 +16,7 @@ export default function Donors() {
 
             <div class="w-full p-6 bg-blue-600 md:items-center rounded-2xl md:bg-transparent md:p-0 lg:px-12 md:justify-evenly z-10  ">
               <img
-                class="lg:h-96 lg:absolute lg:bottom-0  lg:left-12 sm:rounded-2xl rounded-2xl sm:h-24 sm:w-24  md:mx-6  lg:rounded-2xl sm:rounded-2xl object-cover shadow-md  md:w-30 md:h-30  lg:w-80 lg:h-[36rem] lg:w-[26rem] md:rounded-2xl"
+                class=" lg:h-96 lg:absolute lg:bottom-0  lg:left-12 sm:rounded-2xl rounded-2xl sm:h-24 sm:w-24  md:mx-6  lg:rounded-2xl sm:rounded-2xl object-cover shadow-md  md:w-30 md:h-30  lg:w-80 lg:h-[36rem] lg:w-[26rem] md:rounded-2xl"
                 src="https://images.unsplash.com/photo-1488508872907-592763824245?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80"
                 alt="client photo"
               />
