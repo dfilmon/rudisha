@@ -12,16 +12,16 @@ export default function Donors() {
           </h1>
 
           <main class="relative mb-40 z-20 w-full mt-8 md:flex md:items-center xl:mt-12">
-            <div class="absolute w-full bg-blue-600 -z-10 md:h-96 rounded-2xl"></div>
+            <div class="absolute w-full bg-blue-600 -z-10 md:h-96 rounded-2xl "></div>
 
-            <div class="w-full p-6 bg-blue-600 md:flex md:items-center rounded-2xl md:bg-transparent md:p-0 lg:px-12 md:justify-evenly z-10">
+            <div class="w-full p-6 bg-blue-600 md:items-center rounded-2xl md:bg-transparent md:p-0 lg:px-12 md:justify-evenly z-10  ">
               <img
-                class="h-96  absolute bottom-0 left-12 w-24 md:mx-6 rounded-full object-cover shadow-md  md:w-80 lg:h-[36rem] lg:w-[26rem] md:rounded-2xl"
+                class="lg:h-96 lg:absolute lg:bottom-0  lg:left-12 sm:rounded-2xl rounded-2xl sm:h-24 sm:w-24  md:mx-6  lg:rounded-2xl sm:rounded-2xl object-cover shadow-md  md:w-30 md:h-30  lg:w-80 lg:h-[36rem] lg:w-[26rem] md:rounded-2xl"
                 src="https://images.unsplash.com/photo-1488508872907-592763824245?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80"
                 alt="client photo"
               />
 
-              <div class="mt-2 md:mx-6 pl-96">
+              <div class="mt-2 md:mx-6 lg:pl-96 sm:pl-2 sm:mt-7 sm:pr-12">
                 <div>
                   <p class="text-xl font-medium tracking-tight text-white">
                     Ema Watson
