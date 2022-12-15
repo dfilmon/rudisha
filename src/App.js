@@ -3,7 +3,7 @@ import Nav from './components/Nav';
 import Hero from './components/Hero';
 import Mission from './components/Mission';
 import Testimonial from './components/Testimonials';
-import Donors from './components';
+import Donors from './components/Donors';
 
 import 'tailwindcss/tailwind.css';
 
@@ -12,6 +12,7 @@ export default function App() {
     <div>
       <Nav />
       <Hero />
+      <Donors />
       <Mission />
       <Testimonial />
     </div>
