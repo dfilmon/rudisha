@@ -2,8 +2,9 @@ import React from 'react';
 import Nav from './components/Nav';
 import Hero from './components/Hero';
 import Mission from './components/Mission';
-import Testimonial from './components/Testimonials';
+import Testimonials from './components/Testimonials';
 import Donors from './components/Donors';
+import Team from './components/Team';
 
 import 'tailwindcss/tailwind.css';
 
@@ -14,7 +15,8 @@ export default function App() {
       <Hero />
       <Donors />
       <Mission />
-      <Testimonial />
+      <Testimonials />
+      <Team />
     </div>
   );
 }
