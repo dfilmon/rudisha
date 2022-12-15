@@ -16,7 +16,7 @@ export default function Team() {
           </p>
 
           <div class="grid grid-cols-1 gap-8 mt-8 xl:mt-16 md:grid-cols-2 xl:grid-cols-4">
-            <div class="flex flex-col items-center p-8 transition-colors duration-300 transform border cursor-pointer rounded-xl hover:border-transparent group hover:bg-blue-600 dark:border-gray-700 dark:hover:border-transparent">
+            <div class="flex flex-col items-center p-8 transition-colors duration-300 transform border cursor-pointer rounded-xl hover:border-transparent group hover:bg-yellow-600 dark:border-gray-700 dark:hover:border-transparent">
               <img
                 class="object-cover w-32 h-32 rounded-full ring-4 ring-gray-300"
                 src="https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=880&q=80"
@@ -27,7 +27,7 @@ export default function Team() {
                 arthur melo
               </h1>
 
-              <p class="mt-2 text-gray-500 capitalize dark:text-gray-300 group-hover:text-gray-300">
+              <p class="mt-2 text-gray-500 capitalize dark:text-gray-300 group-hover:text-white">
                 design director
               </p>
 
@@ -79,7 +79,7 @@ export default function Team() {
               </div>
             </div>
 
-            <div class="flex flex-col items-center p-8 transition-colors duration-300 transform border cursor-pointer rounded-xl hover:border-transparent group hover:bg-blue-600 dark:border-gray-700 dark:hover:border-transparent">
+            <div class="flex flex-col items-center p-8 transition-colors duration-300 transform border cursor-pointer rounded-xl hover:border-transparent group hover:bg-yellow-600 dark:border-gray-700 dark:hover:border-transparent">
               <img
                 class="object-cover w-32 h-32 rounded-full ring-4 ring-gray-300"
                 src="https://images.unsplash.com/photo-1531590878845-12627191e687?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=764&q=80"
@@ -90,7 +90,7 @@ export default function Team() {
                 Amelia. Anderson
               </h1>
 
-              <p class="mt-2 text-gray-500 capitalize dark:text-gray-300 group-hover:text-gray-300">
+              <p class="mt-2 text-gray-500 capitalize dark:text-gray-300 group-hover:text-white">
                 Lead Developer
               </p>
 
@@ -142,7 +142,7 @@ export default function Team() {
               </div>
             </div>
 
-            <div class="flex flex-col items-center p-8 transition-colors duration-300 transform border cursor-pointer rounded-xl hover:border-transparent group hover:bg-blue-600 dark:border-gray-700 dark:hover:border-transparent">
+            <div class="flex flex-col items-center p-8 transition-colors duration-300 transform border cursor-pointer rounded-xl hover:border-transparent group hover:bg-yellow-600 dark:border-gray-700 dark:hover:border-transparent">
               <img
                 class="object-cover w-32 h-32 rounded-full ring-4 ring-gray-300"
                 src="https://images.unsplash.com/photo-1488508872907-592763824245?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80"
@@ -153,7 +153,7 @@ export default function Team() {
                 Olivia Wathan
               </h1>
 
-              <p class="mt-2 text-gray-500 capitalize dark:text-gray-300 group-hover:text-gray-300">
+              <p class="mt-2 text-gray-500 capitalize dark:text-gray-300 group-hover:text-white">
                 Lead designer
               </p>
 
@@ -205,7 +205,7 @@ export default function Team() {
               </div>
             </div>
 
-            <div class="flex flex-col items-center p-8 transition-colors duration-300 transform border cursor-pointer rounded-xl hover:border-transparent group hover:bg-blue-600 dark:border-gray-700 dark:hover:border-transparent">
+            <div class="flex flex-col items-center p-8 transition-colors duration-300 transform border cursor-pointer rounded-xl hover:border-transparent group hover:bg-yellow-600 dark:border-gray-700 dark:hover:border-transparent">
               <img
                 class="object-cover w-32 h-32 rounded-full ring-4 ring-gray-300"
                 src="https://images.unsplash.com/photo-1570295999919-56ceb5ecca61?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=880&q=80"
@@ -216,7 +216,7 @@ export default function Team() {
                 John Doe
               </h1>
 
-              <p class="mt-2 text-gray-500 capitalize dark:text-gray-300 group-hover:text-gray-300">
+              <p class="mt-2 text-gray-500 capitalize dark:text-gray-300 group-hover:text-white">
                 Full stack developer
               </p>
 

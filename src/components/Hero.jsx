@@ -23,7 +23,7 @@ export default function Hero() {
                   Support the African diaspora.
                 </p>
 
-                <button class="w-40 h-16 px-5 py-2 mt-6 text-sm tracking-wider text-white uppercase transition-colors duration-300 transform bg-yellow-600 rounded-md  hover:bg-yellow-600 focus:outline-none focus:bg-yellow-600">
+                <button class="w-40 h-16 px-5 py-2 mt-6 text-sm tracking-wider text-white uppercase transition-colors duration-300 transform bg-yellow-500 rounded-md  hover:bg-yellow-500 focus:outline-none focus:bg-yellow-500 font-bold">
                   Donate
                 </button>
               </div>

@@ -8,7 +8,7 @@ export default function Testimonials() {
           <div class="lg:-mx-6 lg:flex lg:items-center">
             <img
               class="object-cover object-center lg:w-1/2 lg:mx-6 w-full h-96 rounded-lg lg:h-[36rem]"
-              src="https://images.unsplash.com/photo-1499470932971-a90681ce8530?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80"
+              src="https://lh3.googleusercontent.com/pw/AL9nZEWPcEnApKHLd3pq_hQX4FwKKyM8VlAVkup0Brie8e9h_sstIiG72-GInLb1gCpNgFlMixstMVqo7yZVBzoV32fbt41jOLyXhgYbDLJV3eiZygEpZye9ZUBjtSwCEvocFHE-3X_Xm7siIbU7A9OCDASt=w1982-h1321-no?authuser=1"
               alt=""
             />
 
