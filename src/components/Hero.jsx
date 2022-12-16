@@ -3,7 +3,7 @@ import React from 'react';
 export default function Hero() {
   return (
     <div>
-      <header class="bg-white dark:bg-gray-900">
+      <header class="bg-white dark:bg-gray-900 lg:mx-10 md:mx-10">
         <nav
           x-data="{ isOpen: false }"
           class="relative bg-white dark:bg-gray-900"
@@ -15,7 +15,7 @@ export default function Hero() {
           <div class="items-center lg:flex">
             <div class="w-full lg:w-1/2">
               <div class="lg:max-w-lg">
-                <h1 class="text-3xl font-semibold text-gray-800 dark:text-white lg:text-8xl lg:font-black">
+                <h1 class="text-3xl font-semibold text-gray-800 dark:text-white lg:text-8xl lg:font-black mr-3">
                   Go Back & Give Back
                 </h1>
 
@@ -42,5 +42,3 @@ export default function Hero() {
     </div>
   );
 }
-
-

@@ -4,17 +4,17 @@ export default function Donors() {
   return (
     <div>
       <section class="bg-white dark:bg-gray-900 mt-12">
-        <div class="max-w-6xl px-6 py-10 mx-auto">
+        <div class="max-w-6xl px-6 py-10 lg:mx-10 md:mx-10">
           <p class="text-xl font-medium text-yellow-500 ">Celebrating our</p>
 
-          <h1 class="mt-2 text-3xl mb-52  font-semibold text-gray-800 capitalize lg:text-4xl dark:text-white">
+          <h1 class="mt-2 text-3xl lg:mb-40 md:mb-12  font-semibold text-gray-800 capitalize lg:text-4xl dark:text-white">
             Recent Donations
           </h1>
 
           <main class="relative mb-40 z-20 w-full mt-8 md:flex md:items-center xl:mt-12">
             <div class="absolute w-full bg-yellow-500 -z-10 md:h-96 rounded-2xl "></div>
 
-            <div class="w-full p-6 bg-yellow-600 md:items-center rounded-2xl md:bg-transparent md:p-0 lg:px-12 md:justify-evenly z-10  ">
+            <div class="w-full p-6 bg-yellow-500 md:items-center rounded-2xl md:bg-transparent md:p-0 lg:px-12 md:justify-evenly z-10  ">
               <img
                 class=" lg:h-96 lg:absolute lg:bottom-0  lg:left-12 sm:rounded-2xl rounded-2xl sm:h-24 sm:w-24  md:mx-6  lg:rounded-2xl sm:rounded-2xl object-cover shadow-md  md:w-30 md:h-30  lg:w-80 lg:h-[36rem] lg:w-[26rem] md:rounded-2xl"
                 src="https://lh3.googleusercontent.com/pw/AL9nZEVKWB8j65ARer1LRZToI3i1Fr5BJ3gFt7HH8AjemfK8x36UL5E2PGv15WyiODz3AtMLd296x4qE94eUKkg1jufL85dliqC2cnFLIy2y2jr_Mb1r-cQJ_pmOrWu2u3aOtouNFaDkpXqA8SIh7ZgGPTxB=w881-h1321-no?authuser=1"

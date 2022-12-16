@@ -2,8 +2,6 @@
 import React from 'react';
 import './nav-style.css';
 
-import logo from './logo.png';
-
 export default function Nav() {
   // Burger menus
   document.addEventListener('DOMContentLoaded', function () {
@@ -50,10 +48,13 @@ export default function Nav() {
     <div>
       <nav class="relative px-4 py-4 flex justify-between items-center bg-white">
         <a class="text-3xl font-bold leading-none" href="#">
-          <img src="./logo.png" />
+          <img
+            src="https://cdn.jsdelivr.net/gh/dfilmon/rudisha@main/src/img/logo.png"
+            width="120px"
+          />
         </a>
         <div class="lg:hidden">
-          <button class="navbar-burger flex items-center text-blue-600 p-3">
+          <button class="navbar-burger flex items-center text-yellow-500 p-3">
             <svg
               class="block h-4 w-4 fill-current"
               viewBox="0 0 20 20"
@@ -87,7 +88,7 @@ export default function Nav() {
             </svg>
           </li>
           <li>
-            <a class="text-sm text-blue-600 font-bold" href="#">
+            <a class="text-sm text-yellow-500 font-bold" href="#">
               About Us
             </a>
           </li>
@@ -155,17 +156,12 @@ export default function Nav() {
             </a>
           </li>
         </ul>
+
         <a
-          class="hidden lg:inline-block lg:ml-auto lg:mr-3 py-2 px-6 bg-gray-50 hover:bg-gray-100 text-sm text-gray-900 font-bold  rounded-xl transition duration-200"
+          class="hidden lg:inline-block py-2 px-6 bg-yellow-500 hover:bg-yellow-500 text-sm text-white font-bold rounded-xl transition duration-200"
           href="#"
         >
-          Sign In
-        </a>
-        <a
-          class="hidden lg:inline-block py-2 px-6 bg-blue-500 hover:bg-blue-600 text-sm text-white font-bold rounded-xl transition duration-200"
-          href="#"
-        >
-          Sign up
+          Donate
         </a>
       </nav>
       <div class="navbar-menu relative z-50 hidden">
@@ -201,7 +197,7 @@ export default function Nav() {
             <ul>
               <li class="mb-1">
                 <a
-                  class="block p-4 text-sm font-semibold text-gray-400 hover:bg-blue-50 hover:text-blue-600 rounded"
+                  class="block p-4 text-sm font-semibold text-gray-400 hover:bg-yellow-500 hover:text-yellow-500 rounded"
                   href="#"
                 >
                   Home
@@ -209,7 +205,7 @@ export default function Nav() {
               </li>
               <li class="mb-1">
                 <a
-                  class="block p-4 text-sm font-semibold text-gray-400 hover:bg-blue-50 hover:text-blue-600 rounded"
+                  class="block p-4 text-sm font-semibold text-gray-400 hover:bg-yellow-500 hover:text-yellow-500 rounded"
                   href="#"
                 >
                   About Us
@@ -217,7 +213,7 @@ export default function Nav() {
               </li>
               <li class="mb-1">
                 <a
-                  class="block p-4 text-sm font-semibold text-gray-400 hover:bg-blue-50 hover:text-blue-600 rounded"
+                  class="block p-4 text-sm font-semibold text-gray-400 hover:bg-yellow-500 hover:text-yellow-500 rounded"
                   href="#"
                 >
                   Services
@@ -225,7 +221,7 @@ export default function Nav() {
               </li>
               <li class="mb-1">
                 <a
-                  class="block p-4 text-sm font-semibold text-gray-400 hover:bg-blue-50 hover:text-blue-600 rounded"
+                  class="block p-4 text-sm font-semibold text-gray-400 hover:bg-yellow-500 hover:text-yellow-500 rounded"
                   href="#"
                 >
                   Pricing
@@ -233,7 +229,7 @@ export default function Nav() {
               </li>
               <li class="mb-1">
                 <a
-                  class="block p-4 text-sm font-semibold text-gray-400 hover:bg-blue-50 hover:text-blue-600 rounded"
+                  class="block p-4 text-sm font-semibold text-gray-400 hover:bg-yellow-500 hover:text-yellow-500 rounded"
                   href="#"
                 >
                   Contact
@@ -250,7 +246,7 @@ export default function Nav() {
                 Sign in
               </a>
               <a
-                class="block px-4 py-3 mb-2 leading-loose text-xs text-center text-white font-semibold bg-blue-600 hover:bg-blue-700  rounded-xl"
+                class="block px-4 py-3 mb-2 leading-loose text-xs text-center text-white font-semibold bg-yellow-500 hover:bg-yellow-500  rounded-xl"
                 href="#"
               >
                 Sign Up
